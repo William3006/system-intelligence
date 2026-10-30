@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+networkx
+python-dotenv
+httpx
+pytest
